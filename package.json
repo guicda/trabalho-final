@@ -1,18 +1,19 @@
 {
-  "dependencies": {
-    "assert": "^2.1.0",
-    "mocha": "^11.5.0"
-  },
   "name": "trabalho-final",
   "version": "1.0.0",
-  "type":"module",
+  "description": "",
+  "type": "module",
   "main": "trabalho.js",
-  "devDependencies": {},
   "scripts": {
     "test": "mocha"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "dependencies": {
+    "assert": "^2.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^11.7.1"
+  }
 }
