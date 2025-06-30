@@ -5,7 +5,7 @@
   "type": "module",
   "main": "trabalho.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha ./testes/*.js"
   },
   "keywords": [],
   "author": "",
@@ -17,3 +17,4 @@
     "mocha": "^11.7.1"
   }
 }
+
